@@ -218,7 +218,7 @@ cursor: pointer;
 
  .app-list {}
 
- .app-item{}
+ .app-item{background: #FFFFFF;}
 
  .app-after-title{}
 
@@ -228,7 +228,7 @@ cursor: pointer;
 
  .design-list {}
 
- .design-item{}
+ .design-item{background: #FFFFFF;}
 
  .design-after-title{}
 
@@ -239,7 +239,7 @@ cursor: pointer;
 
  .marketing-list {}
 
- .marketing-item{}
+ .marketing-item{background: #FFFFFF;}
 
  .marketing-after-title{}
 
