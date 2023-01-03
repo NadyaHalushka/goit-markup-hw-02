@@ -135,6 +135,8 @@ color: #FFFFFF;
 }
 
     .hero-btn{
+        font-family: 'Roboto';
+font-style: normal;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.04em;
@@ -146,6 +148,7 @@ background:var(--first-btn-color);
 
     .hero-btn:hover,
     .hero-btn:focus {
+        
         background:var(--second-btn-color);
     }
 
@@ -200,9 +203,18 @@ color:var(--first-title-color)
 
     .team-text{}
 
-    /*----------MENU----------*/
+    /*----------PORTFOLIO----------*/
 
-.menu-btn{
+    .portfolio{}
+
+    .portfolio-list{}
+
+    .portfolio-item{}
+
+
+.portfolio-btn{
+    font-family: 'Roboto';
+    font-style: normal;
     font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
@@ -212,8 +224,9 @@ border: 1px solid #E7E9FC;
 cursor: pointer;
 }
 
-.menu-btn:hover,
-    .menu-btn:focus {
+.portfolio-btn:hover,
+    .portfolio-btn:focus {
+        color: #FFFFFF;
         background:var(--second-btn-color);
     }
 
@@ -227,26 +240,6 @@ cursor: pointer;
 
  .app-text{}
 
- /*----------DESIGN----------*/
-
- .design-list {}
-
- .design-item{background: var(--background-color-item)}
-
- .design-after-title{}
-
- .design-text{}
- 
- /*----------MARKETING----------*/
-
-
- .marketing-list {}
-
- .marketing-item{background:var(--background-color-item)}
-
- .marketing-after-title{}
-
- .marketing-text{}
 
 
 
