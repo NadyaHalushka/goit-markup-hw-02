@@ -138,7 +138,8 @@ color: #FFFFFF;
         font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
-line-height: 1.2;
+font-size: 16px;
+line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;
 color: #FFFFFF;
@@ -216,6 +217,7 @@ color:var(--first-title-color)
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
+    font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #4D5AE5;
